@@ -16,20 +16,20 @@ In this project I created the frontend of an Android App intended for photograph
 
 ## Screenshots
 ### User Profile Screen
-<img src="https://github.com/hopansh/iKontest_App/blob/main/Screenshots/Screenshot_20201218-155538.png" width="200" height="300">
+<img src="https://github.com/hopansh/iKontest_App/blob/main/Screenshots/Screenshot_20201218-155538.png" width="250" height="400">
 
 ### User Feed Screen
-<img src="https://github.com/hopansh/iKontest_App/blob/main/Screenshots/Screenshot_20201218-155551.png" width="200" height="350">
+<img src="https://github.com/hopansh/iKontest_App/blob/main/Screenshots/Screenshot_20201218-155551.png" width="250" height="400">
 
 ### User Menu Drawer Screen
-<img src="https://github.com/hopansh/iKontest_App/blob/main/Screenshots/Screenshot_20201218-155558.png" width="200" height="350">
+<img src="https://github.com/hopansh/iKontest_App/blob/main/Screenshots/Screenshot_20201218-155558.png" width="250" height="400">
 
 ### Notification Screen
-<img src="https://github.com/hopansh/iKontest_App/blob/main/Screenshots/Screenshot_20201218-155543.png" width="200" height="350">
+<img src="https://github.com/hopansh/iKontest_App/blob/main/Screenshots/Screenshot_20201218-155543.png" width="250" height="400">
 
 ### User Settings Screen
-<img src="https://github.com/hopansh/iKontest_App/blob/main/Screenshots/Screenshot_20201218-155729.png" width="200" height="350">
+<img src="https://github.com/hopansh/iKontest_App/blob/main/Screenshots/Screenshot_20201218-155729.png" width="250" height="400">
 
 ### User Photo Upload
-<img src="https://github.com/hopansh/iKontest_App/blob/main/Screenshots/Screenshot_20201218-155827.png" width="200" height="350">
+<img src="https://github.com/hopansh/iKontest_App/blob/main/Screenshots/Screenshot_20201218-155827.png" width="250" height="400">
 
