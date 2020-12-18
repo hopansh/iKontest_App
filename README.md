@@ -16,22 +16,20 @@ In this project I created the frontend of an Android App intended for photograph
 
 ## Screenshots
 ### User Profile Screen
-![image](Screenshots/Screenshot_20201218-155538.png)
+<img src="https://github.com/hopansh/iKontest_App/blob/main/Screenshots/Screenshot_20201218-155538.png" width="100" height="100">
 
 ### User Feed Screen
-![image](Screenshots/Screenshot_20201218-155551.png)
+<img src="https://github.com/hopansh/iKontest_App/blob/main/Screenshots/Screenshot_20201218-155551.png" width="30" height="100">
 
 ### User Menu Drawer Screen
-![image](Screenshots/Screenshot_20201218-155558.png)
+<img src="https://github.com/hopansh/iKontest_App/blob/main/Screenshots/Screenshot_20201218-155558.png" width="30" height="100">
 
 ### Notification Screen
-![image](Screenshots/Screenshot_20201218-155543.png)
+<img src="https://github.com/hopansh/iKontest_App/blob/main/Screenshots/Screenshot_20201218-155543.png" width="30" height="100">
 
 ### User Settings Screen
-![image](Screenshots/Screenshot_20201218-155729.png)
-
-### User Settings Screen
-![image](Screenshots/Screenshot_20201218-155729.png)
+<img src="https://github.com/hopansh/iKontest_App/blob/main/Screenshots/Screenshot_20201218-155729.png" width="30" height="100">
 
 ### User Photo Upload
-![image](Screenshots/Screenshot_20201218-155827.png)
+<img src="https://github.com/hopansh/iKontest_App/blob/main/Screenshots/Screenshot_20201218-155827.png" width="30" height="100">
+
